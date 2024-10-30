@@ -37,11 +37,9 @@ The base model used for LLaVA 1.5 can be found [here](https://huggingface.co/met
 ### Hugging Face Space
 Explore the model in action and its capabilities on Hugging Face Spaces: [LLaVA 1.5 Space](https://huggingface.co/spaces/Kartheekb7/llava_chat).
 
-## Future Work
-- Potential improvements and areas for further research can be discussed here.
+## Future Work and what i could have done better
+- add chat memory for now it is just multi turn q&a
+- use random concatenation as suggeseted in paper
+- train on complete dataset
 
-### Acknowledgments
-- Mention any collaborators, libraries, or resources that helped you in this project.
 
-## License
-- Specify the license under which your code is distributed.
