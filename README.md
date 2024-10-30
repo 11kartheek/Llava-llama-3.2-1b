@@ -32,7 +32,8 @@ The base model used for LLaVA 1.5 can be found [here](https://huggingface.co/met
 - Link to the base vision model (e.g., CLIP) goes here.
 
 ### Training Logs Snapshot
-- Include a snapshot or summary of your training logs to illustrate model performance and any significant observations during training.
+- Include a snapshot or summary of your training logs to illustrate model performance and any significant observations during training.![image](https://github.com/user-attachments/assets/8da4b8dd-14b9-4637-9abb-beff803d66bf)
+
 
 ### Hugging Face Space
 Explore the model in action and its capabilities on Hugging Face Spaces: [LLaVA 1.5 Space](https://huggingface.co/spaces/Kartheekb7/llava_chat).
