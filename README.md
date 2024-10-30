@@ -10,6 +10,10 @@ LLaVA 1.5 builds upon its predecessors by enhancing its architecture for improve
 - **Attention Mechanisms**: Improved attention layers allow the model to focus on relevant parts of the input data more effectively.
 - **Fine-tuning Capabilities**: Pre-trained on diverse datasets, LLaVA 1.5 can be fine-tuned on specific tasks, allowing for tailored performance improvements.
 
+training_script https://github.com/11kartheek/Llava-qwen/blob/main/final_training.ipynb
+inference_script 
+app_inference_script https://github.com/11kartheek/Llava-qwen/blob/main/app_inference.ipynb
+
 ## Dataset
 - **Size**: 150,000 samples
 - **Format**: [JSON]
