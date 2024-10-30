@@ -29,10 +29,11 @@ The LLaVA 1.5 model integrates a **Multi-Layer Perceptron (MLP)** projection lay
 The base model used for LLaVA 1.5 can be found [here](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct).
 
 ### Base Vision Model
-- Link to the base vision model (e.g., CLIP) goes here.
+- Link to the base vision model [Vision model](https://huggingface.co/openai/clip-vit-base-patch32)
 
 ### Training Logs Snapshot
-- Include a snapshot or summary of your training logs to illustrate model performance and any significant observations during training.![image](https://github.com/user-attachments/assets/8da4b8dd-14b9-4637-9abb-beff803d66bf)
+- Include a snapshot or summary of your training logs to illustrate model performance and any significant observations during training.![image](https://github.com/user-attachments/assets/8da4b8dd-14b9-4637-9abb-beff803d66bf)![image](https://github.com/user-attachments/assets/5159d7a7-4b4c-4ac9-8c5d-6387667b2bbf)
+
 
 
 ### Hugging Face Space
