@@ -2,10 +2,10 @@
 ## LLaVA 1.5: Training on 150k Dataset
 
 ### Overview
-This repository explores the **LLaVA 1.5** model, a state-of-the-art architecture designed for various natural language processing tasks. This project involves training LLaVA 1.5 on a dataset of subet of **150,000 samples** to evaluate its performance and capabilities.
+This repository explores the **LLaVA 1.5** model, a state-of-the-art architecture designed for various natural language processing tasks. This project involves training LLaVA 1.5 on a dataset subset of **150,000 samples** to evaluate its performance and capabilities. LLaVA 1.5 transforms a traditional language model into a multimodal model capable of processing both text and image inputs. we are also adding a whisper projection to add audio capability
 
 ### How LLaVA 1.5 Works
-The LLaVA 1.5 model integrates a **Multi-Layer Perceptron (MLP)** projection layer with the LLaVA architecture, along with **QLoRA** (Quantized Low-Rank Adaptation) for efficient training and fine-tuning. 
+LLaVA 1.5 transforms a traditional language model into a multimodal model capable of processing both text and image inputs. This is achieved by integrating Multi-Layer Perceptron (MLP) projection and QLoRA (Quantized Low-Rank Adaptation) into the LLaVA architecture, making it versatile and memory-efficient.
 
 - **Architecture**: 
   - The MLP projection maps image embeddings into the text embedding space, allowing the model to handle multi-modal inputs effectively.
@@ -32,7 +32,8 @@ The base model used is latest llama 3.2 1b instruct model [here](https://hugging
 - clip model to get image features [Vision model](https://huggingface.co/openai/clip-vit-base-patch32)
 
 ### Training Logs Snapshot
--  snapshot or summary of  training logs to illustrate model performance.![image](https://github.com/user-attachments/assets/8da4b8dd-14b9-4637-9abb-beff803d66bf)![image](https://github.com/user-attachments/assets/5159d7a7-4b4c-4ac9-8c5d-6387667b2bbf)
+-  snapshot or summary of  training logs to illustrate model performance.
+  ![image](https://github.com/user-attachments/assets/8da4b8dd-14b9-4637-9abb-beff803d66bf)![image](https://github.com/user-attachments/assets/5159d7a7-4b4c-4ac9-8c5d-6387667b2bbf)
 
 
 
