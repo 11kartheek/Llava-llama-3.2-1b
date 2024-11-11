@@ -39,9 +39,8 @@ The base model used is latest llama 3.2 1b instruct model [here](https://hugging
 ### Hugging Face Space
 Explore the model in action and its capabilities on Hugging Face Spaces: [LLaVA 1.5 Space](https://huggingface.co/spaces/Kartheekb7/llava_chat).
 
-## Future Work and what i could have done better
+## Future Work 
 - add chat memory (for now it is just multiturn Q&A)
 - use random concatenation as suggeseted in paper
-- train on complete dataset
 
 
